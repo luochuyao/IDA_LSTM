@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="CIKM_Eva:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CIKM_Eva_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CIKM_Eva.jar">
+        <element id="module-output" name="CIKM_Eva" />
+      </element>
+    </root>
+  </artifact>
+</component>
