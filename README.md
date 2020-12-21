@@ -1,6 +1,3 @@
-# IDA_LSTM
-The Radar Echo Extrapolation Model
-
 
 # IDA-LSTM
 
