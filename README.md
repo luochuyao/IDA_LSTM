@@ -33,7 +33,7 @@ We give two approaches to evaluate our models.
 
 The first method is to check all predictions by running the java file in the path of CIKM_Eva/src (It is faster). You need to modify some information of path and make a .jar file to run
 
-The second method is to run the evaluate.py in the path of evaluate/
+The second method is to run the evaluation.py in the path of data_provider/CIKM/
 
 # Prediction samples
 5 frames are predicted given the last 10 frames.
