@@ -1,6 +1,3 @@
-# IDA_LSTM
-The Radar Echo Extrapolation Model
-
 
 # IDA-LSTM
 
@@ -24,7 +21,7 @@ You might want to change the parameter and setting, you can change the details o
 
 The preprocess method and data root path can be modified in the data/data_iterator.py file
 
-There are all trained models. You can download it following this address:[trained model](https://drive.google.com/drive/folders/1RB_V418msSLFSzplXYfzlnUZ7M79dt_l?usp=sharing)
+There are all trained models. You can download it following this address:[trained model](https://drive.google.com/file/d/1pnTSDoaKuKouu7y_j-QTq8dDBKVA-mPD/view)
 
 
 # Evaluation
@@ -33,7 +30,7 @@ We give two approaches to evaluate our models.
 
 The first method is to check all predictions by running the java file in the path of CIKM_Eva/src (It is faster). You need to modify some information of path and make a .jar file to run
 
-The second method is to run the evaluate.py in the path of evaluate/
+The second method is to run the evaluation.py in the path of data_provider/CIKM/
 
 # Prediction samples
 5 frames are predicted given the last 10 frames.
