@@ -37,6 +37,6 @@ The second method is to run the evaluation.py in the path of data_provider/CIKM/
 
 ![Prediction vislazation](https://github.com/luochuyao/IDA_LSTM/blob/master/radar_res.png)
 
-Besides, we also offer some prediction results of models including ConvGRU, TrajGRU, PredRNN++ and MIM ![Download Address](https://1drv.ms/u/s!AjADGxHd4nm8iGofrKsXGZIXkyre?e=h1DzmM) 
+Besides, we also offer some prediction results of models including ConvGRU, TrajGRU, PredRNN++ and MIM [Download Address](https://1drv.ms/u/s!AjADGxHd4nm8iGofrKsXGZIXkyre?e=h1DzmM) 
 
 
